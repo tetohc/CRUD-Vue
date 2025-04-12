@@ -1,6 +1,6 @@
 # Gestión de Pacientes Veterinarios
 
-Proyecto CRUD para la gestión de pacientes veterinarios. Ofrece la funcionalidad de registrar, actualizar, consultar y eliminar información. Utiliza **Vue.js**, **Tailwind CSS** y **DaisyUI**. Incorpora modos de tema claro y oscuro para una experiencia personalizada.
+Proyecto CRUD para la gestión de pacientes veterinarios. Funcionalidad de registrar, actualizar, consultar y eliminar información. Utiliza **Vue.js**, **Tailwind CSS** y **DaisyUI**. Incorpora modos de tema claro y oscuro.
 
 ## Funcionalidades
 
