@@ -1,0 +1,4 @@
+@import "tailwindcss";
+@plugin "daisyui" {
+    themes: aqua, winter --default, light, dark --prefersdark;
+  }
